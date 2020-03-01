@@ -1,4 +1,13 @@
-n = 1;
-b = 2;
+Andrey = {
+    name: "Andrey",
+    age: 10,
+    footSize: 38,
+    height: 157
+};
 
-console.log(n+b);
+if (Andrey.name == и) {
+    console.log("bool")
+} else {
+    console.log("not")    
+};
+
