@@ -1,13 +1,8 @@
-Andrey = {
-    name: "Andrey",
-    age: 10,
-    footSize: 38,
-    height: 157
-};
+var obj = {
+    name: "Orest",
+    age: 23,
+    arr: [1, 4, 5],
+    smok: false
+}
 
-if (Andrey.name == и) {
-    console.log("bool")
-} else {
-    console.log("not")    
-};
-
+console.log(obj.arr.sort);
